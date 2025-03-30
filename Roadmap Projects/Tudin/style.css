@@ -1,0 +1,21 @@
+h1{
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+h2{
+    color: aqua;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+h3{
+    color: chartreuse;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+p{
+    font-size: medium;
+    font-family: sans-serif;
+}
